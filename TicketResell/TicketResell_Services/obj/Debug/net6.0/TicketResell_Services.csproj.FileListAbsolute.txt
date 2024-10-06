@@ -1,0 +1,11 @@
+Z:\TicketResell\TicketResell_Services\bin\Debug\net6.0\TicketResell_Services.deps.json
+Z:\TicketResell\TicketResell_Services\bin\Debug\net6.0\TicketResell_Services.dll
+Z:\TicketResell\TicketResell_Services\bin\Debug\net6.0\TicketResell_Services.pdb
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.AssemblyInfoInputs.cache
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.AssemblyInfo.cs
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.csproj.CoreCompileInputs.cache
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.dll
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\refint\TicketResell_Services.dll
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\TicketResell_Services.pdb
+Z:\TicketResell\TicketResell_Services\obj\Debug\net6.0\ref\TicketResell_Services.dll

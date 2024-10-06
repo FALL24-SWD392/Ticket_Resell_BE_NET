@@ -1,0 +1,11 @@
+Z:\TicketResell\TicketResell_DAOS\bin\Debug\net6.0\TicketResell_DAOS.deps.json
+Z:\TicketResell\TicketResell_DAOS\bin\Debug\net6.0\TicketResell_DAOS.dll
+Z:\TicketResell\TicketResell_DAOS\bin\Debug\net6.0\TicketResell_DAOS.pdb
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.AssemblyInfoInputs.cache
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.AssemblyInfo.cs
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.csproj.CoreCompileInputs.cache
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.dll
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\refint\TicketResell_DAOS.dll
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\TicketResell_DAOS.pdb
+Z:\TicketResell\TicketResell_DAOS\obj\Debug\net6.0\ref\TicketResell_DAOS.dll

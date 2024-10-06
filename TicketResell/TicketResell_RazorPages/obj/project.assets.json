@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TicketResell_BusinessObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TicketResell_BusinessObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketResell_BusinessObjects.dll": {}
+        }
+      },
+      "TicketResell_DAOS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TicketResell_BusinessObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TicketResell_DAOS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketResell_DAOS.dll": {}
+        }
+      },
+      "TicketResell_Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TicketResell_DAOS": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TicketResell_Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketResell_Repositories.dll": {}
+        }
+      },
+      "TicketResell_Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TicketResell_Repositories": "1.0.0",
+          "TicketResell_Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TicketResell_Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketResell_Services.dll": {}
+        }
+      },
+      "TicketResell_Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TicketResell_Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicketResell_Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketResell_BusinessObjects/1.0.0": {
+      "type": "project",
+      "path": "../TicketResell_BusinessObjects/TicketResell_BusinessObjects.csproj",
+      "msbuildProject": "../TicketResell_BusinessObjects/TicketResell_BusinessObjects.csproj"
+    },
+    "TicketResell_DAOS/1.0.0": {
+      "type": "project",
+      "path": "../TicketResell_DAOS/TicketResell_DAOS.csproj",
+      "msbuildProject": "../TicketResell_DAOS/TicketResell_DAOS.csproj"
+    },
+    "TicketResell_Repositories/1.0.0": {
+      "type": "project",
+      "path": "../TicketResell_Repositories/TicketResell_Repositories.csproj",
+      "msbuildProject": "../TicketResell_Repositories/TicketResell_Repositories.csproj"
+    },
+    "TicketResell_Services/1.0.0": {
+      "type": "project",
+      "path": "../TicketResell_Services/TicketResell_Services.csproj",
+      "msbuildProject": "../TicketResell_Services/TicketResell_Services.csproj"
+    },
+    "TicketResell_Utils/1.0.0": {
+      "type": "project",
+      "path": "../TicketResell_Utils/TicketResell_Utils.csproj",
+      "msbuildProject": "../TicketResell_Utils/TicketResell_Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TicketResell_Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS ROG\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\TicketResell\\TicketResell_RazorPages\\TicketResell_RazorPages.csproj",
+      "projectName": "TicketResell_RazorPages",
+      "projectPath": "Z:\\TicketResell\\TicketResell_RazorPages\\TicketResell_RazorPages.csproj",
+      "packagesPath": "C:\\Users\\ASUS ROG\\.nuget\\packages\\",
+      "outputPath": "Z:\\TicketResell\\TicketResell_RazorPages\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ASUS ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "Z:\\TicketResell\\TicketResell_Services\\TicketResell_Services.csproj": {
+              "projectPath": "Z:\\TicketResell\\TicketResell_Services\\TicketResell_Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
